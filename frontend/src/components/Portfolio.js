@@ -20,9 +20,9 @@ export default function Portfolio() {
           <span>My Portfolios</span>
         </div>
         <p>
-          This website is designed and developed with React. I have done some
-          works through this time. Here I have listed some of my notable works,
-          which are shown below.
+          This website is a MERN Portfolio Website. I have done some works
+          through this time. Here I have listed some of my notable works, which
+          are shown below.
         </p>
         {loading ? (
           <LoadingBox></LoadingBox>
