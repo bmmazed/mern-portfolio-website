@@ -30,7 +30,7 @@ export default function PortfolioScreen(props) {
             </a>
           </div>
           <div className="details">
-            <p>{portfolio.description}</p>
+            <p>{portfolio.d_description}</p>
           </div>
           <div className="button">
             <Link to="/">
